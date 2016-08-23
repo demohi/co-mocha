@@ -62,7 +62,7 @@ MIT
 [npm-url]: https://npmjs.org/package/co-mocha
 [downloads-image]: https://img.shields.io/npm/dm/co-mocha.svg?style=flat
 [downloads-url]: https://npmjs.org/package/co-mocha
-[travis-image]: https://img.shields.io/travis/blakeembrey/co-mocha.svg?style=flat
-[travis-url]: https://travis-ci.org/blakeembrey/co-mocha
+[travis-image]: https://img.shields.io/travis/demohi/co-mocha.svg?style=flat
+[travis-url]: https://travis-ci.org/demohi/co-mocha
 [coveralls-image]: https://img.shields.io/coveralls/blakeembrey/co-mocha.svg?style=flat
 [coveralls-url]: https://coveralls.io/r/blakeembrey/co-mocha?branch=master
